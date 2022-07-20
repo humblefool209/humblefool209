@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humblefool209
-- 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning Android app development using Android Studio and wish to learn React Native in future.
-- 💞️ I wish to collaborate on open source projects related to mobile/web app development
+- 👀 I’m interested in web app development.
+- 🌱 I’m currently learning web app development using react and wish to learn React Native in future.
+- 💞️ I wish to collaborate on open source projects related to web app development
 - 📫 You can drop a mail at Arnab.Sadhukhan@outlook.com
 
 <!---
